@@ -1,0 +1,10 @@
+[
+  {
+    "id": "1",
+    "bookStoreName": "Best book store ever",
+    "bookStoreId": "1",
+    "createdDate": "2018-06-30T11:00:00.000Z",
+    "lastModified": "2018-06-01T02:16:23.822Z",
+    "isDeleted": false
+  }
+]

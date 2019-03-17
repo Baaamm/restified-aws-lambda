@@ -1,0 +1,21 @@
+{
+  "resource": "/bookstores/{id}",
+  "path": "/bookstores/r235teytu4w353",
+  "httpMethod": "DELETE",
+  "headers": {},
+  "queryStringParameters": null,
+  "pathParameters": {"id": "r235teytu4w353"},
+  "requestContext":
+  {
+    "path": "/bookstores",
+    "accountId": "",
+    "resourceId": "",
+    "stage": "",
+    "requestId": "",
+    "resourcePath": "/",
+    "httpMethod": "PUT",
+    "apiId": ""
+  },
+  "body":null,
+  "isBase64Encoded": false
+}

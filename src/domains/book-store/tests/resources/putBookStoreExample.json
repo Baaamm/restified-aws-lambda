@@ -1,0 +1,21 @@
+{
+  "resource": "/bookstores/{id}",
+  "path": "/bookstores/r235teytu4w353",
+  "httpMethod": "PUT",
+  "headers": {},
+  "queryStringParameters": null,
+  "pathParameters": {"id": "r235teytu4w353"},
+  "requestContext":
+  {
+    "path": "/bookstores",
+    "accountId": "",
+    "resourceId": "",
+    "stage": "",
+    "requestId": "",
+    "resourcePath": "/",
+    "httpMethod": "PUT",
+    "apiId": ""
+  },
+  "body": "{\"id\": \"1\",\"bookStoreName\": \"Best book store ever\",\"bookStoreId\": \"1\",\"lastModified\": \"2018-07-22T02:03:14.121Z\",\"isDeleted\": false}",
+  "isBase64Encoded": false
+}

@@ -1,0 +1,21 @@
+{
+  "resource": "/bookstores",
+  "path": "/bookstores",
+  "httpMethod": "GET",
+  "headers": {},
+  "queryStringParameters": null,
+  "pathParameters": null,
+  "requestContext":
+  {
+    "path": "/bookstores",
+    "accountId": "",
+    "resourceId": "",
+    "stage": "",
+    "requestId": "",
+    "resourcePath": "/",
+    "httpMethod": "GET",
+    "apiId": ""
+  },
+  "body": null,
+  "isBase64Encoded": false
+}

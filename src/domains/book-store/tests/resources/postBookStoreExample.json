@@ -1,0 +1,21 @@
+{
+  "resource": "/bookstores",
+  "path": "/bookstores",
+  "httpMethod": "POST",
+  "headers": {},
+  "queryStringParameters": null,
+  "pathParameters": null,
+  "requestContext":
+  {
+    "path": "/bookstores",
+    "accountId": "",
+    "resourceId": "",
+    "stage": "",
+    "requestId": "",
+    "resourcePath": "/bookstores",
+    "httpMethod": "POST",
+    "apiId": ""
+  },
+  "body": "{\"bookStoreName\": \"Best book store ever\",\"bookStoreId\": \"1\"}",
+  "isBase64Encoded": false
+}
