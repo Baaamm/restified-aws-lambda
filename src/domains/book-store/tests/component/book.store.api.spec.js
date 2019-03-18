@@ -264,7 +264,7 @@ describe("Test book store Api", function () {
           expect(body.statusCode).to.equal(400);
           expect(body.message).to.equal('Invalid data set');
           expect(body.errors).to.deep.equal([
-            { field: 'id', message: '\"id\" must be a valid GUID' }
+            { field: ['id'], message: '\"id\" must be a valid GUID' }
           ]);
           expect(response.statusCode).to.equal(400);
           done();
@@ -389,7 +389,7 @@ describe("Test book store Api", function () {
           expect(body.message).to.equal('Invalid data set');
           expect(body.errors).to.deep.equal([
             {
-              field: 'id',
+              field: ['id'],
               message: '"id" must be a valid GUID'
             }
           ]);
@@ -521,7 +521,7 @@ describe("Test book store Api", function () {
           expect(body.message).to.equal('Invalid data set');
           expect(body.errors).to.deep.equal([
             {
-              field: 'id',
+              field: ['id'],
               message: '"id" must be a valid GUID'
             }
           ]);
